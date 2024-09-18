@@ -10,5 +10,4 @@ My professional journey reflects a keen eagerness to learn new technologies and 
 - 👯 I’m looking to collaborate on new ambitious and innovative projects
 - You can reach me:
   - [LinkedIn](https://www.linkedin.com/in/mustaf%C3%AB-ismajli-99b54b318/)
-  - [Gmail](ismajlim26@gmail.com)
-  - [Phone](+38345807988)
+  - [Gmail](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRzDQqPKRXFmgfbGvcZWjsxxLTqFSsqlFswWNZdtQZwpqhlPRDJGCCCjFwKWBZWcchVxgVkB)
