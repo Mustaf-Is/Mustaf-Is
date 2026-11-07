@@ -1,13 +1,11 @@
-## Hi there 👋
+# Hi, I'm Mustafë 👋
 
-I am Mustafë Ismajli a Computer Science student currently pursuing the last year of academic studies where so far I gained a strong kowledge in basics of computer science fields like networking, software engineering,
-data security, databases, artificial intelligence & computer architecture.
-As a dedicated Computer Science student, I bring a wealth of expertise in software system design, development, testing, and maintenance! 
-My professional journey reflects a keen eagerness to learn new technologies and grow within the field.
+I'm a software engineer based in Prishtinë, Kosovo, currently working at Radix. I mostly work with Python and TypeScript, building backend services, data pipelines, and AI-powered tools.
 
-- 🔭 I’m currently working on personal projects and portfolio
-- 🌱 I’m currently learning new technologies and skills that will help me to develop and gorw as a progammer
-- 👯 I’m looking to collaborate on new ambitious and innovative projects
-- You can reach me:
-  - [LinkedIn](https://www.linkedin.com/in/mustaf%C3%AB-ismajli-99b54b318/)
-  - [Gmail](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRzDQqPKRXFmgfbGvcZWjsxxLTqFSsqlFswWNZdtQZwpqhlPRDJGCCCjFwKWBZWcchVxgVkB)
+I break complex problems down into smaller pieces and tackle them one at a time. Me, Claude, Codex, and a suspicious number of agents. We’re building something. Probably 👀
+
+- Exploring LLMs, MCP, agent evaluation, RAG, and whatever catches my curiosity next.
+- Interested in AI engineering, backend engineering, automation, and useful developer tools.
+- Open to exchanging ideas and collaborating on projects in these areas.
+
+[Portfolio](https://mustaf-dev.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/mustaf%C3%AB-ismajli-99b54b318/) · [Email](mailto:ismajlim26@gmail.com)
